@@ -11,7 +11,7 @@
     "pack": "webpack --config webpack.config.js",
     "watch": "webpack --watch --config webpack.config.js"
   },
-  "name": "Refrax",
+  "name": "react-refrax",
   "version": "1.0.0",
   "description": "Create a reactive react component",
   "main": "index.js",
