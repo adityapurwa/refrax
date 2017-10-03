@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "scripts": {
+    "pack": "webpack --config webpack.config.js",
+    "watch": "webpack --watch --config webpack.config.js"
+  },
+  "name": "Refrax",
+  "version": "1.0.0",
+  "description": "Create a reactive react component",
+  "main": "index.js",
+  "repository": "git@github.com:adityapurwa/refrax.git",
+  "author": "Aditya Purwa",
+  "license": "MIT",
+  "private": false
+}
